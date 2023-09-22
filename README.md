@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">A creative full-stack developer from Rio de Janeiro</h3>
 
-- 🔭 I’m currently working on [Foodies](www.gofoodies.me)
+- 🔭 I’m currently working on <a href=www.gofoodies.me>
 
 - 📫 How to reach me **pedrobolliger@gmail.com**
 
