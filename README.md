@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">A creative full-stack developer from Rio de Janeiro</h3>
 
-- 🔭 I’m currently working on <a href=www.gofoodies.me>
-
+- 🔭 I’m currently working on [Foodies](www.gofoodies.me)
 - 📫 How to reach me **pedrobolliger@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/vnetw9kc8g](https://flowcv.com/resume/vnetw9kc8g)
+- 📄 Know about my experiences [My CV](https://flowcv.com/resume/vnetw9kc8g)
 
 - ⚡ Fun fact **I have a masters in music and also make music for videogames :)**
 
