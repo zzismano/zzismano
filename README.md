@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">A creative full-stack developer from Rio de Janeiro</h3>
 
-- 🔭 I’m currently working on [Foodies](foodies)
+- 🔭 I’m currently working on [Foodies](../foodies)
 - 📫 How to reach me **pedrobolliger@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://flowcv.com/resume/vnetw9kc8g)
